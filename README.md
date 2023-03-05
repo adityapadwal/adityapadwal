@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapadwal&label=Profile%20views&color=0e75b6&style=flat" alt="adityapadwal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aditya_padwal31" target="blank"><img src="https://img.shields.io/twitter/follow/aditya_padwal31?logo=twitter&style=for-the-badge" alt="aditya_padwal31" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **DSA, MERN stack development**
